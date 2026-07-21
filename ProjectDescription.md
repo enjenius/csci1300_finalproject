@@ -12,7 +12,6 @@ MagicalItem
 Player
 Monster
 
-
 ## Limited Resource
 Monster loot
 Mana
